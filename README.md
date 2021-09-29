@@ -1,6 +1,7 @@
-### Oi, seja bem vindo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi, I'm Juliana <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-- 🌱 Atualmente estou estudando Java EE
+- 🌱 I'm currently learning Java | JavaScript | Angular
+- 🔭 I currently work with Java EE and its specifications
 
 <div>
   <a href="https://github.com/juoliver">
