@@ -1,6 +1,6 @@
 ### Hi, I'm Juliana <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-- 🌱 I'm currently learning Java | JavaScript | Angular
+- 🌱 I'm currently learning JavaScript | Angular
 - 🔭 I currently work with Java EE and its specifications
 
 <div>
