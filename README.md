@@ -6,6 +6,7 @@
   <a href="https://github.com/juoliver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juoliver&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juoliver&layout=compact&langs_count=7&theme=radical"/>
+  <img align="right" alt="Ju-pop" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/51934347/152003582-ee07c43b-4d4d-4c5e-82ef-846405d94ae0.png">
 </div>
   
 ---
