@@ -35,20 +35,7 @@
  </div>
 
 ---
-### 👨‍💻 My current focus
 
-Currently I'm focused with the Framework stack to build amazing applications!
-
-- [x] HTML5
-- [x] CSS3 - Flexbox, Grid and Animations
-- [ ] (Currently Learning) Sass
-- [ ] (Currently Learning) Bootstrap CSS Framework
-- [ ] Pure Modern JavaScript ES6+
-- [ ] Angular  
-- [ ] React.js
-- [ ] Node.js
-
----
   <p align="left"> 
    <a href="https://www.linkedin.com/in/juliana-oliver-pereira/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
