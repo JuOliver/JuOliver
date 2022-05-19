@@ -1,6 +1,6 @@
 ### Hi, I'm Juliana <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-- 🔭 I currently work with Java EE and its specifications
+- 🔭 I currently work with Java 
 
 <div>
   <a href="https://github.com/juoliver">
